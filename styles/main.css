@@ -1,0 +1,174 @@
+* {
+	font-size: 12px;
+	font-family: verdana, sans-serif;
+}
+
+h1 {
+	padding: 0;
+	margin: 0;
+	margin-bottom: 20px;
+	font-size: 16px;
+	color: grey;
+	width: 750px;
+	border-bottom: 2px solid #0000ff;
+}
+
+h2 {
+	padding: 0;
+	margin: 0;
+	margin-bottom: 20px;
+	font-size: 14px;
+	color: grey;
+	width: 750px;
+	clear: both;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+	padding-bottom: 15px;
+}
+
+#logo {
+	margin: 0;
+	padding: 0;
+	padding-left: 200px;
+	padding-bottom: 50px;
+}
+
+#menu {
+	padding-top: 50px;
+	width: 200px;
+	float: left;
+}
+
+#menu ul{
+	margin: 0;
+	list-style-type: none;
+}
+
+#menu ul  ul {
+	margin: 0;
+	padding: 0;
+	padding-left: 20px;
+}
+
+#menu li {
+	margin:0;
+	padding: 0;
+	padding-bottom: 3px;
+}
+
+#content {
+	width: 750px;
+	float: left;
+}
+
+#content ul {
+	margin: 0;
+	padding: 0;
+	padding-bottom: 15px;
+	padding-left: 30px;
+}
+
+#content ol {
+	margin: 0;
+	padding: 0;
+	padding-bottom: 15px;
+	padding-left: 30px;
+}
+
+#footer {
+	width: 750px;
+	border-top: 2px solid #0000ff;
+	text-align: center;
+	padding-bottom: 50px;
+	margin-top: 30px;
+	margin-left: 200px;
+	clear: both;
+}
+
+.cube_algorithm_p {
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	margin: 0;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.cube_table img {
+	width: 100px;
+	height: 100px;
+}
+
+.cube_table_content img {
+	width: 100px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+}
+
+.cube_table {	
+	margin: 0;
+	margin-bottom: 30px;
+	width: 750px;
+	border-width: 1px;
+	border-spacing: 0px;
+	border-style: outset;
+	border-color: #0000ff;
+	border-collapse: separate;
+}
+
+.cube_table_content {
+	margin: 0;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 30px;
+}
+
+.cube_table th {
+	background: #0000ff;
+	color: white;
+	padding: 4px;
+}
+
+.cube_table_content_td {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-style: italic;
+}
+
+.cube_table_content_th {
+	padding: 4px;
+}
+
+.cube_table_cube_td {
+	margin: 0;
+	padding: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	width: 100px;
+}
+
+.cube_table_algorithm_td {	
+	font-size: 10px;	
+	margin: 0;
+	padding: 0;
+	padding-left: 10px;
+	padding-bottom: 20px;
+	width: 750px;
+	font-weight: bold;
+}
+
+.cube_table_case_td {
+	font-size: 10px;
+	margin: 0;
+	padding: 0;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+}
