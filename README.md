@@ -1,24 +1,16 @@
-﻿<?php include("../../includes/header.php"); ?>
-<div id="main">	
-	<div id="menu">		
-		<?php include("../../includes/menu.php"); ?>	
-	</div>	
-	<div id="content">		
-		<h1>Begynder</h1>		
-		<p>Denne løsningsmetode er opdelt i otte forskellige trin. Disse trin kan beskrives som: </p>		
-		
-		<ol>
-		<li>Cross</li>	
-		<li>First Layer Corners</li>
-		<li>Second Layer Edges</li>	
-		<li>Cross on U-face</li>	
-		<li>Orient Edges in U-Layer</li>	
-		<li>Permute Edges in U-Layer</li>	
-		<li>Permute corners in U-Layer</li>			
-		<li>Orient corners in U-Layer		
-		</ol>
+﻿# Begynder
+Denne løsningsmetode er opdelt i otte forskellige trin. Disse trin kan beskrives som:
 
-		<p>Der findes en alternativ måde til løsning af det sidste lag, det kræver man to algoritmer mere. Læs mere om 4 Look Last Layer (4LLL) <a href="4lll.php">her</a>.</p> 
+1. Cross
+2. First Layer Corners
+3. Second Layer Edges	
+4. Cross on U-face	
+5. Orient Edges in U-Layer
+6. Permute Edges in U-Layer
+7. Permute corners in U-Layer
+8. Orient corners in U-Layer		
+
+Der findes en alternativ måde til løsning af det sidste lag, det kræver man to algoritmer mere. Læs mere om 4 Look Last Layer (4LLL) [awesome/4lll.md](her).
 
 		<h2>Cross</h2>	
 		<p>I første del af løsningen skal der dannes et kryds på terningen. Det er ligemeget hvilket farve krydset er, dog er det vigtigt kanterne placeres så de stemmer med centrene på de andre sider.</p>		
