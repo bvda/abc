@@ -1,23 +1,17 @@
-﻿<?php include("../../includes/header.php"); ?>
-<div id="main">	
-	<div id="menu">		
-		<?php include("../../includes/menu.php"); ?>	
-	</div>	
-	<div id="content">			
-		<h1>Alternativ løsningsmetode til sidste lag</h1>
-		<p>Følg den ovenstående guide til der forefindes et kryds på U-laget på terningen. Her efter vil en af følgende mønstre være i U-laget:</p>
+﻿# Alternativ løsningsmetode til sidste lag</h1>
+Følg den ovenstående guide til der forefindes et kryds på U-laget på terningen. Her efter vil en af følgende mønstre være i U-laget:
 		
 <table class="cube_table">
 	<th colspan="4">OLL cases</th>
 	<tr>
 		<td class="cube_table_cube_td">
-			<img src="../../images/beginner/oll-case04.png">
+			<img src="../images/beginner/oll-case04.png">
 		</td>
 		<td class="cube_table_algorithm_td">
 			Case 1: Forlygter
 		</td>
 		<td class="cube_table_cube_td">
-			<img src="../../images/beginner/oll-case05.png">
+			<img src="../images/beginner/oll-case05.png">
 		</td>
 		<td class="cube_table_algorithm_td">
 			Case 2: Fluesmækker
@@ -25,7 +19,7 @@
 	</tr>
 	<tr>
 		<td class="cube_table_cube_td">
-			<img src="../../images/beginner/oll-case06.png">
+			<img src="../images/beginner/oll-case06.png">
 		</td>
 		<td class="cube_table_algorithm_td">
 			Case 3: Butterfly
