@@ -92,7 +92,7 @@ Hvis der ikke er et løst kantstykke, udføres algoritmen en gang for at få det
 <table class="cube_table_content">		
 	<tr>
 		<td class="cube_table_content_td">		
-			<img src="../../images/beginner/pll-case06.png" />		
+			<img src="../images/beginner/pll-case06.png" />		
 		</td>
 	</tr>
 	<tr>		
