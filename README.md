@@ -1,4 +1,5 @@
 ﻿![cubes_logo](images/cubes_logo.png)
+
 Velkommen til min side om speedsolving.
 
 Her på siden kan du finde forskellige metoder til at løse en Rubik's Cube. Der er metoder for begyndere og øvede samt fifs til at få det til at gå endnu hurtigere.
