@@ -8,9 +8,9 @@ F2L er den del af løsningen der kan vindes mest tid. Samtidig er det er også d
 
 "badmephisto" har lavet en rigtig god F2L video tutorial i to dele på YouTube:
 - <a href="http://www.youtube.com/watch?v=k-xbcAMfWwM">Rubik's Cube: Fridrich F2L explained (PART 1/2)</a>
-- <a href="http://www.youtube.com/watch?gl=CA&hl=en&v=4GxLM_dZqg4">Rubik's Cube: Fridrich F2L explained (PART 2/2)
+- <a href="https://www.youtube.com/watch?v=4GxLM_dZqg4">Rubik's Cube: Fridrich F2L explained (PART 2/2)
 
-_Links sidst tjekket: 2010-04-04_
+_Links sidst tjekket: 2022-12-18_
 
 Det er endnu ikke så vigtigt at mestre F2L, så jeg råder dig til ikke at lægge for mange kræfter i at forstå hvad videoer viser, bare hav det i baghovedet. Der er stadig meget tid at hente i det sidste lag, når du mestre det, kan du vente tilbage til F2L.
 
