@@ -46,165 +46,159 @@ For alle illustationer her på siden gælder det at F = rød, B = orange, R = gr
 		<td class="cube_table_algorithm_td">F</td>
 		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_f_ccw.png"></td>
 		<td class="cube_table_algorithm_td">F'</td>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_f2.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_f2.png"></td>
 		<td class="cube_table_algorithm_td">F2</td>
 	</tr>
 	<tr>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_r_cw.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_r_cw.png"></td>
 		<td class="cube_table_algorithm_td">R</td>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_r_ccw.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_r_ccw.png"></td>
 		<td class="cube_table_algorithm_td">R'</td>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_r2.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_r2.png"></td>
 		<td class="cube_table_algorithm_td">R2</td>
 	</tr>
 	<tr>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_l_cw.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_l_cw.png"></td>
 		<td class="cube_table_algorithm_td">L</td>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_l_ccw.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_l_ccw.png"></td>
 		<td class="cube_table_algorithm_td">L'</td>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_l2.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_l2.png"></td>
 		<td class="cube_table_algorithm_td">L2</td>
 	</tr>
 	<tr>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_u_cw.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_u_cw.png"></td>
 		<td class="cube_table_algorithm_td">U</td>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_u_ccw.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_u_ccw.png"></td>
 		<td class="cube_table_algorithm_td">U'</td>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_u2.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_u2.png"></td>
 		<td class="cube_table_algorithm_td">U2</td>
 	</tr>
 	<tr>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_b_cw.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_b_cw.png"></td>
 		<td class="cube_table_algorithm_td">B</td>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_b_ccw.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_b_ccw.png"></td>
 		<td class="cube_table_algorithm_td">B'</td>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_b2.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_b2.png"></td>
 		<td class="cube_table_algorithm_td">B2</td>			
 	</tr>
 	<tr>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_d_cw.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_d_cw.png"></td>
 		<td class="cube_table_algorithm_td">D</td>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_d_ccw.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_d_ccw.png"></td>
 		<td class="cube_table_algorithm_td">D'</td>
-		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_d2.png"></td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_d2.png"></td>
 		<td class="cube_table_algorithm_td">D2</td>
 	</tr>
 </table>
 		
-		<table class="cube_table">
-		<th colspan="6">Double Outer Slice Moves</th>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_fw_cw.png"></td>
-			<td class="cube_table_algorithm_td">Fw</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_fw_ccw.png"></td>
-			<td class="cube_table_algorithm_td">Fw'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_fw2.png"></td>
-			<td class="cube_table_algorithm_td">Fw2</td>
-		</tr>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_rw_cw.png"></td>
-			<td class="cube_table_algorithm_td">Rw</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_rw_ccw.png"></td>
-			<td class="cube_table_algorithm_td">Rw'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_rw2.png"></td>
-			<td class="cube_table_algorithm_td">Rw2</td>
-		</tr>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_l_cw.png"></td>
-			<td class="cube_table_algorithm_td">Lw</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_l_ccw.png"></td>
-			<td class="cube_table_algorithm_td">Lw'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_lw2.png"></td>
-			<td class="cube_table_algorithm_td">Lw2</td>
-		</tr>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_uw_cw.png"></td>
-			<td class="cube_table_algorithm_td">Uw</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_uw_ccw.png"></td>
-			<td class="cube_table_algorithm_td">Uw'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_uw2.png"></td>
-			<td class="cube_table_algorithm_td">Uw2</td>
-		</tr>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_bw_cw.png"></td>
-			<td class="cube_table_algorithm_td">Bw</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_bw_ccw.png"></td>
-			<td class="cube_table_algorithm_td">Bw'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_bw2.png"></td>
-			<td class="cube_table_algorithm_td">Bw2</td>
-		</tr>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_dw_cw.png"></td>
-			<td class="cube_table_algorithm_td">Dw</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_dw_ccw.png"></td>
-			<td class="cube_table_algorithm_td">Dw'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_dw2.png"></td>
-			<td class="cube_table_algorithm_td">Dw2</td>
-		</tr>
-		</table>
+<table class="cube_table">
+	<th colspan="6">Double Outer Slice Moves</th>
+	<tr>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_fw_cw.png"></td>
+		<td class="cube_table_algorithm_td">Fw</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_fw_ccw.png"></td>
+		<td class="cube_table_algorithm_td">Fw'</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_fw2.png"></td>
+		<td class="cube_table_algorithm_td">Fw2</td>
+	</tr>
+	<tr>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_rw_cw.png"></td>
+		<td class="cube_table_algorithm_td">Rw</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_rw_ccw.png"></td>
+		<td class="cube_table_algorithm_td">Rw'</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_rw2.png"></td>
+		<td class="cube_table_algorithm_td">Rw2</td>
+	</tr>
+	<tr>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_l_cw.png"></td>
+		<td class="cube_table_algorithm_td">Lw</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_l_ccw.png"></td>
+		<td class="cube_table_algorithm_td">Lw'</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_lw2.png"></td>
+		<td class="cube_table_algorithm_td">Lw2</td>
+	</tr>
+	<tr>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_uw_cw.png"></td>
+		<td class="cube_table_algorithm_td">Uw</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_uw_ccw.png"></td>
+		<td class="cube_table_algorithm_td">Uw'</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_uw2.png"></td>
+		<td class="cube_table_algorithm_td">Uw2</td>
+	</tr>
+	<tr>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_bw_cw.png"></td>
+		<td class="cube_table_algorithm_td">Bw</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_bw_ccw.png"></td>
+		<td class="cube_table_algorithm_td">Bw'</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_bw2.png"></td>
+		<td class="cube_table_algorithm_td">Bw2</td>
+	</tr>
+	<tr>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_dw_cw.png"></td>
+		<td class="cube_table_algorithm_td">Dw</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_dw_ccw.png"></td>
+		<td class="cube_table_algorithm_td">Dw'</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_dw2.png"></td>
+		<td class="cube_table_algorithm_td">Dw2</td>
+	</tr>
+</table>
 		
-		<h2>Middle Slice Moves</h2>
+## Middle Slice Moves
 		
-		<table class="cube_table">
-		<th colspan="6">Middle Slice Moves</th>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_m_cw.png"></td>
-			<td class="cube_table_algorithm_td">M</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_m_ccw.png"></td>
-			<td class="cube_table_algorithm_td">M'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_m2.png"></td>
-			<td class="cube_table_algorithm_td">M2</td>
-		</tr>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_e_cw.png"></td>
-			<td class="cube_table_algorithm_td">E</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_e_ccw.png"></td>
-			<td class="cube_table_algorithm_td">E'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_e2.png"></td>
-			<td class="cube_table_algorithm_td">E2</td>
-		</tr>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_s_cw.png"></td>
-			<td class="cube_table_algorithm_td">S</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_s_ccw.png"></td>
-			<td class="cube_table_algorithm_td">S'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_s2.png"></td>
-			<td class="cube_table_algorithm_td">S2</td>
-		</tr>
-		</table>
+<table class="cube_table">
+	<th colspan="6">Middle Slice Moves</th>
+	<tr>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_m_cw.png"></td>
+		<td class="cube_table_algorithm_td">M</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_m_ccw.png"></td>
+		<td class="cube_table_algorithm_td">M'</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_m2.png"></td>
+		<td class="cube_table_algorithm_td">M2</td>
+	</tr>
+	<tr>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_e_cw.png"></td>
+		<td class="cube_table_algorithm_td">E</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_e_ccw.png"></td>
+		<td class="cube_table_algorithm_td">E'</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_e2.png"></td>
+		<td class="cube_table_algorithm_td">E2</td>
+	</tr>
+	<tr>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_s_cw.png"></td>
+		<td class="cube_table_algorithm_td">S</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_s_ccw.png"></td>
+		<td class="cube_table_algorithm_td">S'</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_s2.png"></td>
+		<td class="cube_table_algorithm_td">S2</td>
+	</tr>
+</table>
 		
-		<h2>Cube Rotations</h2>
+## Cube Rotations
 		
-		<table class="cube_table">
-		<th colspan="6">Cube Rotations</th>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_x_cw.png"></td>
-			<td class="cube_table_algorithm_td">x</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_x_ccw.png"></td>
-			<td class="cube_table_algorithm_td">x'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_x2.png"></td>
-			<td class="cube_table_algorithm_td">x2</td>
-		</tr>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_y_cw.png"></td>
-			<td class="cube_table_algorithm_td">y</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_y_ccw.png"></td>
-			<td class="cube_table_algorithm_td">y'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_y2.png"></td>
-			<td class="cube_table_algorithm_td">y2</td>
-		</tr>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_z_cw.png"></td>
-			<td class="cube_table_algorithm_td">z</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_z_ccw.png"></td>
-			<td class="cube_table_algorithm_td">z'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_z2.png"></td>
-			<td class="cube_table_algorithm_td">z2</td>
-		</tr>
-		</table>
-		
-	</div>
-	<div id="footer">
-		<?php include("../includes/footer.php"); ?>
-	</div>
-</div>
+<table class="cube_table">
+	<th colspan="6">Cube Rotations</th>
+	<tr>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_x_cw.png"></td>
+		<td class="cube_table_algorithm_td">x</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_x_ccw.png"></td>
+		<td class="cube_table_algorithm_td">x'</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_x2.png"></td>
+		<td class="cube_table_algorithm_td">x2</td>
+	</tr>
+	<tr>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_y_cw.png"></td>
+		<td class="cube_table_algorithm_td">y</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_y_ccw.png"></td>
+		<td class="cube_table_algorithm_td">y'</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_y2.png"></td>
+		<td class="cube_table_algorithm_td">y2</td>
+	</tr>
+	<tr>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_z_cw.png"></td>
+		<td class="cube_table_algorithm_td">z</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_z_ccw.png"></td>
+		<td class="cube_table_algorithm_td">z'</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_z2.png"></td>
+		<td class="cube_table_algorithm_td">z2</td>
+	</tr>
+</table>
