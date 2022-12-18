@@ -22,7 +22,7 @@ Det er derfor en god idé at finde en krydsfarve man kan lide, og holde sig til 
 <table class="cube_table_content">	
 	<tr>	
 		<td class="cube_table_content_td">		
-			<img src="../images/beginner/rubiks_cube_cross_up.png" />	
+			<img src="images/beginner/rubiks_cube_cross_up.png" />	
 		</td>
 	</tr>	
 	<tr>		
@@ -42,7 +42,7 @@ Den ovenstående algoritme udføres indtil hjørnet er på plads. Når alle hjø
 <table class="cube_table_content">		
 	<tr>
 		<td class="cube_table_content_td">		
-			<img src="../images/beginner/rubiks_cube_first_layer_up.png" />		
+			<img src="images/beginner/rubiks_cube_first_layer_up.png" />		
 		</td>
 	<tr>
 		<td class="cube_table_content_td">Nu er hele første lag på terningen løst</td>		
@@ -64,10 +64,10 @@ Fortsæt med at benytte de to algoritmer, til at alle kanterne i den det anden l
 <table class="cube_table_content">		
 	<tr>		
 		<td class="cube_table_content_td">		
-			<img src="../images/beginner/rubiks_cube_second_layer_edge_left.png" />		
+			<img src="images/beginner/rubiks_cube_second_layer_edge_left.png" />		
 		</td>		
 		<td class="cube_table_content_td">		
-			<img src="../images/beginner/rubiks_cube_second_layer_edge_right.png" />		
+			<img src="images/beginner/rubiks_cube_second_layer_edge_right.png" />		
 		</td>		
 	</tr>		
 	<tr>		
@@ -78,7 +78,7 @@ Fortsæt med at benytte de to algoritmer, til at alle kanterne i den det anden l
 <table class="cube_table_content">		
 	<tr>
 		<td class="cube_table_content_td">		
-			<img src="../images/beginner/rubiks_cube_second_layer_complete.png" />		
+			<img src="images/beginner/rubiks_cube_second_layer_complete.png" />		
 		</td>		
 	</tr>		
 	<tr>		
@@ -94,13 +94,13 @@ Fortsæt med at benytte de to algoritmer, til at alle kanterne i den det anden l
 <table class="cube_table_content">		
 	<tr>		
 		<td class="cube_table_content_td">		
-			<img src="../images/beginner/rubiks_cube_top_layer_case_1.png" />		
+			<img src="images/beginner/rubiks_cube_top_layer_case_1.png" />		
 		</td>		
 		<td class="cube_table_content_td">		
-			<img src="../images/beginner/rubiks_cube_top_layer_case_2.png" />		
+			<img src="images/beginner/rubiks_cube_top_layer_case_2.png" />		
 		</td>		
 		<td class="cube_table_content_td">		
-			<img src="../images/beginner/rubiks_cube_top_layer_case_3.png" />		
+			<img src="images/beginner/rubiks_cube_top_layer_case_3.png" />		
 		</td>		
 	</tr>		
 	<tr>		
@@ -113,7 +113,7 @@ Hvis den første case optræder, udfør da algoritmen en gang for at få den and
 <table class="cube_table_content">		
 	<tr>
 		<td class="cube_table_content_td">		
-			<img src="../images/beginner/rubiks_cube_top_cross_complete.png" />	
+			<img src="images/beginner/rubiks_cube_top_cross_complete.png" />	
 		</td>		
 	</tr>		
 	<tr>		
@@ -133,10 +133,10 @@ Det er vigtigt, at algoritmen bliver udført mens det pågældende mønster er p
 <table class="cube_table_content">		
 	<tr>		
 		<td class="cube_table_content_td">		
-			<img src="../images/beginner/rubiks_cube_permute_top_layer_cross_case_1.png" />		
+			<img src="images/beginner/rubiks_cube_permute_top_layer_cross_case_1.png" />		
 		</td>		
 		<td class="cube_table_content_td">		
-			<img src="../images/beginner/rubiks_cube_permute_top_layer_cross_case_2.png" />		
+			<img src="images/beginner/rubiks_cube_permute_top_layer_cross_case_2.png" />		
 		</td>
 	</tr>		
 	<tr>		
@@ -154,10 +154,10 @@ Hvis et af hjørnerne er placeret rigtigt, skal dette være placeret på URF.
 <table class="cube_table_content">		
 	<tr>
 		<td class="cube_table_content_td">		
-			<img src="../images/beginner/rubiks_cube_urf_correct_oriented.png" />		
+			<img src="images/beginner/rubiks_cube_urf_correct_oriented.png" />		
 		</td>	
 		<td class="cube_table_content_td">		
-			<img src="../images/beginner/rubiks_cube_urf_incorrect_oriented.png" />		
+			<img src="images/beginner/rubiks_cube_urf_incorrect_oriented.png" />		
 		</td>		
 	<tr>		
 		<td class="cube_table_content_td" colspan="2">Her ses to forskellige cases, begge hjørner er placeret korrekt, og er derfor korrekt placeret på URF placeringen.</td>		
