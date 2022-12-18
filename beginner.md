@@ -10,7 +10,7 @@ Denne løsningsmetode er opdelt i otte forskellige trin. Disse trin kan beskrive
 7. Permute corners in U-Layer
 8. Orient corners in U-Layer		
 
-Der findes en alternativ måde til løsning af det sidste lag, det kræver man to algoritmer mere. Læs mere om 4 Look Last Layer (4LLL) [her](awesome/4lll.md).
+Der findes en alternativ måde til løsning af det sidste lag, det kræver man to algoritmer mere. Læs mere om 4 Look Last Layer (4LLL) [her](4lll.md).
 
 ## Cross
 I første del af løsningen skal der dannes et kryds på terningen. Det er ligemeget hvilket farve krydset er, dog er det vigtigt kanterne placeres så de stemmer med centrene på de andre sider.
