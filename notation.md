@@ -1,112 +1,95 @@
-﻿<?php include("../includes/header.php"); ?>
-<div id="main">
-	<div id="menu">
-		<?php include("../includes/menu.php"); ?>
-	</div>
-	<div id="content">
-		<h1>Notation</h1>
-		
-		<p>For at kunne forstå de mange algoritmer her på siden skal man være fortrolig med en række notationer der bruges til at beskrive træk på terningen.</p>
-		
-		<p>Følgende symboler anvendes til at beskrive de seks sider på terningen.</p>
-		<ul>
-			<li>F (front face)</li>
-			<li>B (back face)</li>
-			<li>R (right face)</li>
-			<li>L (left face)</li>
-			<li>U (upper face)</li>
-			<li>D (down face)</li>
-		</ul>
-		
-		<p>Face moves</p>
-		<ul>
-			<li>Med uret, 90 grader: F, B, R , L, U, D</li>
-			<li>Mod uret, 90 grader: F', B', R', L', U', D'</li>
-			<li>Med uret, 180 grader: F2, B2, R2, L2, U2, D2</li>
-			<li>Mod uret, 180 grader: F'2, B'2, R'2, L'2, U'2, D'2</li>
-		</ul>
-		
-		<p>Double outer slice moves</p>
-		<ul>
-			<li>Med uret, 90 grader: Fw, Bw, Rw, Lw, Uw, Dw</li>
-			<li>Mod uret, 90 grader: Fw', Bw', Rw', Lw', Uw', Dw'</li>
-			<li>Med uret, 180 grader: Fw2, Bw2, Rw2, Lw2, Uw2, Dw2</li>
-			<li>Mod uret, 180 grader: Fw'2, Bw'2, Rw'2, Lw'2, Uw'2, Dw'2</li>
-		</ul>
-		
-		<p>Middle slice moves</p>
-		<ul>
-			<li>Med uret, 90 grader: M, S, E</li>
-			<li>Mod uret, 90 grader: M', S', E'</li>
-			<li>Med uret, 180 grader: M2, S2, E2</li>
-			<li>Mod uret, 180 grader: M'2, S'2, E'2</li>
-		</ul>
-		
-		<p><i>M drejes samme retning som L, S drejes i samme retning som F, E drejes i samme retning som D.</i></p>
-		
-		<p>Cube rotations</p>
-		<ul>
-			<li>Med uret, 90 grader: z eller [f], z' eller [b], x eller [r], x' eller [l], y eller [u], y' eller [d]</li>
-			<li>Mod uret, 90 grader: z' eller [f'], z eller [b'], x' eller [r'], x eller [l'], y' eller [u'], y eller [d']</li>
-			<li>Med uret, 180 grader: z2 eller [f2], z2 eller [b2], x2 eller [r2], x2 eller [l2], y2 eller [u2], y2 eller [d2]</li>
-			<li>Mod uret, 180 grader: z'2 eller [f'2], z'2 eller [b'2], x'2 eller [r'2], x'2 eller [l'2], y'2 eller [u'2], y'2 eller [d'2]</li>
-		</ul>
+﻿# Notation
+For at kunne forstå de mange algoritmer her på siden skal man være fortrolig med en række notationer der bruges til at beskrive træk på terningen.
 
-		<p>For alle illustationer her på siden gælder det at F = rød, B = orange, R = grøn, L = blå, U = gul og D = hvid.
+Følgende symboler anvendes til at beskrive de seks sider på terningen.
+- F (front face)
+- B (back face)
+- R (right face)
+- L (left face)
+- U (upper face)
+- D (down face)
+
+Face moves
+- Med uret, 90 grader: F, B, R , L, U, D
+- Mod uret, 90 grader: F', B', R', L', U', D'
+- Med uret, 180 grader: F2, B2, R2, L2, U2, D2
+- Mod uret, 180 grader: F'2, B'2, R'2, L'2, U'2, D'2
 		
-		<h2>Face Moves</h2>
+Double outer slice moves
+- Med uret, 90 grader: Fw, Bw, Rw, Lw, Uw, Dw
+- Mod uret, 90 grader: Fw', Bw', Rw', Lw', Uw', Dw'
+- Med uret, 180 grader: Fw2, Bw2, Rw2, Lw2, Uw2, Dw2
+- Mod uret, 180 grader: Fw'2, Bw'2, Rw'2, Lw'2, Uw'2, Dw'2
+
+Middle slice moves
+- Med uret, 90 grader: M, S, E
+- Mod uret, 90 grader: M', S', E'
+- Med uret, 180 grader: M2, S2, E2
+- Mod uret, 180 grader: M'2, S'2, E'2
 		
-		<table class="cube_table">
-		<th colspan="6">Face Moves</th>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_f_cw.png"></td>
-			<td class="cube_table_algorithm_td">F</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_f_ccw.png"></td>
-			<td class="cube_table_algorithm_td">F'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_f2.png"></td>
-			<td class="cube_table_algorithm_td">F2</td>
-		</tr>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_r_cw.png"></td>
-			<td class="cube_table_algorithm_td">R</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_r_ccw.png"></td>
-			<td class="cube_table_algorithm_td">R'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_r2.png"></td>
-			<td class="cube_table_algorithm_td">R2</td>
-		</tr>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_l_cw.png"></td>
-			<td class="cube_table_algorithm_td">L</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_l_ccw.png"></td>
-			<td class="cube_table_algorithm_td">L'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_l2.png"></td>
-			<td class="cube_table_algorithm_td">L2</td>
-		</tr>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_u_cw.png"></td>
-			<td class="cube_table_algorithm_td">U</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_u_ccw.png"></td>
-			<td class="cube_table_algorithm_td">U'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_u2.png"></td>
-			<td class="cube_table_algorithm_td">U2</td>
-		</tr>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_b_cw.png"></td>
-			<td class="cube_table_algorithm_td">B</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_b_ccw.png"></td>
-			<td class="cube_table_algorithm_td">B'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_b2.png"></td>
-			<td class="cube_table_algorithm_td">B2</td>			
-		</tr>
-		<tr>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_d_cw.png"></td>
-			<td class="cube_table_algorithm_td">D</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_d_ccw.png"></td>
-			<td class="cube_table_algorithm_td">D'</td>
-			<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_d2.png"></td>
-			<td class="cube_table_algorithm_td">D2</td>
-		</tr>
-		</table>
+_M drejes samme retning som L, S drejes i samme retning som F, E drejes i samme retning som D._
+		
+Cube rotations
+- Med uret, 90 grader: z eller [f], z' eller [b], x eller [r], x' eller [l], y eller [u], y' eller [d]
+- Mod uret, 90 grader: z' eller [f'], z eller [b'], x' eller [r'], x eller [l'], y' eller [u'], y eller [d']
+- Med uret, 180 grader: z2 eller [f2], z2 eller [b2], x2 eller [r2], x2 eller [l2], y2 eller [u2], y2 eller [d2]
+- Mod uret, 180 grader: z'2 eller [f'2], z'2 eller [b'2], x'2 eller [r'2], x'2 eller [l'2], y'2 eller [u'2], y'2 eller [d'2]
+
+For alle illustationer her på siden gælder det at F = rød, B = orange, R = grøn, L = blå, U = gul og D = hvid.
+
+## Face Moves
+		
+<table class="cube_table">
+	<th colspan="6">Face Moves</th>
+	<tr>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_f_cw.png"></td>
+		<td class="cube_table_algorithm_td">F</td>
+		<td class="cube_table_cube_td"><img src="images/notation/rubiks_cube_f_ccw.png"></td>
+		<td class="cube_table_algorithm_td">F'</td>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_f2.png"></td>
+		<td class="cube_table_algorithm_td">F2</td>
+	</tr>
+	<tr>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_r_cw.png"></td>
+		<td class="cube_table_algorithm_td">R</td>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_r_ccw.png"></td>
+		<td class="cube_table_algorithm_td">R'</td>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_r2.png"></td>
+		<td class="cube_table_algorithm_td">R2</td>
+	</tr>
+	<tr>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_l_cw.png"></td>
+		<td class="cube_table_algorithm_td">L</td>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_l_ccw.png"></td>
+		<td class="cube_table_algorithm_td">L'</td>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_l2.png"></td>
+		<td class="cube_table_algorithm_td">L2</td>
+	</tr>
+	<tr>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_u_cw.png"></td>
+		<td class="cube_table_algorithm_td">U</td>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_u_ccw.png"></td>
+		<td class="cube_table_algorithm_td">U'</td>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_u2.png"></td>
+		<td class="cube_table_algorithm_td">U2</td>
+	</tr>
+	<tr>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_b_cw.png"></td>
+		<td class="cube_table_algorithm_td">B</td>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_b_ccw.png"></td>
+		<td class="cube_table_algorithm_td">B'</td>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_b2.png"></td>
+		<td class="cube_table_algorithm_td">B2</td>			
+	</tr>
+	<tr>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_d_cw.png"></td>
+		<td class="cube_table_algorithm_td">D</td>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_d_ccw.png"></td>
+		<td class="cube_table_algorithm_td">D'</td>
+		<td class="cube_table_cube_td"><img src="../images/notation/rubiks_cube_d2.png"></td>
+		<td class="cube_table_algorithm_td">D2</td>
+	</tr>
+</table>
 		
 		<table class="cube_table">
 		<th colspan="6">Double Outer Slice Moves</th>
