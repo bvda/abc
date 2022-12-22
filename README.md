@@ -14,3 +14,11 @@ For at få noget ud af siden, kræver det du kender nogle simple [notationer](no
 Hvis du har spørgsmål, forslag til forbedringer eller nye emner der burde tages op kan der smides en mail på: brian dot v dot danielsen at gmail dot com.
 
 God fornøjelse!
+
+---
+
+# Links
+- <a href="http://www.cubewhiz.com/">Bob Burton's Rubik's Cube Page</a>
+- <a href="http://www.speedcubing.dk/">Speedcubing.dk</a>
+- <a href="http://www.speedsolving.com/">Speedsolving.com</a>
+- <a href="http://www.speedsolving.com/wiki/">Speedsolving.com Wiki</a>
