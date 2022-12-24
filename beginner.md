@@ -86,10 +86,12 @@ Fortsæt med at benytte de to algoritmer, til at alle kanterne i den det anden l
 	</tr>		
 </table>	
 
-<h2>Orient Edges in U-Layer</h2>		
-<p>Dette trin er starten på at fuldende det sidste lag. Faktisk er det ret nemt, da der kun er en algoritme at lære:</p>		
-<p class="cube_algorithm_p">F R U R' U' F'</p>		
-<p>Der er dog noget, der skal holdes styr på, fire mønstre som de fire kanter i top-laget danner. Det er vigtigt at algoritmen bliver udført mens det pågældende mønster er placeret som de tre nedenstående illustrationer:</p>		
+## Orient Edges in U-Layer
+Dette trin er starten på at fuldende det sidste lag. Faktisk er det ret nemt, da der kun er en algoritme at lære:
+
+> F R U R' U' F'
+
+Der er dog noget, der skal holdes styr på, fire mønstre som de fire kanter i top-laget danner. Det er vigtigt at algoritmen bliver udført mens det pågældende mønster er placeret som de tre nedenstående illustrationer:
 
 <table class="cube_table_content">		
 	<tr>		
